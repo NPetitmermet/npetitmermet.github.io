@@ -3,6 +3,4 @@
 There isn't much here at the moment, but check back in the future to see all projects that are being worked on!
 
 ### Current Projects
- Project # | Project URL 
- --------- | -----------
- 1 | https://github.com/NPetitmermet/hello-world.git 
+* [Hello World](https://github.com/NPetitmermet/hello-world.git)
