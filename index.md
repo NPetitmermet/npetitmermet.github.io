@@ -4,5 +4,5 @@ There isn't much here at the moment, but check back in the future to see all pro
 
 ### Current Projects
  Project # | Project URL
- ----------|------------
+-|-
  1 | https://github.com/NPetitmermet/hello-world.git
